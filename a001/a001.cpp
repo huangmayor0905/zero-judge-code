@@ -7,4 +7,3 @@ int main() {
     cout << "hello, " << word << "\n";
     return 0;
 }
-
