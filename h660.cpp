@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int x, range, v;
+	int x, range, v;
 	cin >> x >> range >> v;
 
 	int times;
